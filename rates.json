@@ -1,19 +1,24 @@
 {
+  "prime": {
+    "value": null,
+    "date": null
+  },
+  "sofr": {
+    "value": null,
+    "date": null
+  },
   "t3": {
-    "value": "3.97",
-    "date": "2026-05-05"
+    "value": null,
+    "date": null
   },
   "t5": {
-    "value": "4.08",
-    "date": "2026-05-05"
+    "value": null,
+    "date": null
   },
   "t10": {
-    "value": "4.43",
-    "date": "2026-05-05"
+    "value": null,
+    "date": null
   },
-  "prime": {
-    "value": "6.75",
-    "date": "2026-04-29"
-  },
-  "lastUpdated": "2026-05-05"
+  "lastUpdated": null,
+  "status": "temporarily_unavailable"
 }
